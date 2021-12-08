@@ -1,0 +1,59 @@
+a{
+   color: azure;
+}
+a:hover {
+   color: red;
+}
+
+
+body{
+    font-family: "Baloo Thambi 2" cursive;
+}
+.color {
+    color: azure;
+}
+.bg-color-yellow{
+    background-color: yellow;
+}
+.bg-color-green{
+    background-color: lightgreen;
+}
+.bg-color-red {
+    background-color: lightcoral;
+}
+.align {
+    align-items: center;
+    align-content: center;
+}
+.subtitle{
+    color: tomato;
+}
+.footermargin{
+    margin-top: 150px;
+}
+.footermargin1{
+    margin-top: 100px;
+}
+.footermargin2{
+    margin-top: 200px;
+}
+/*navbar text*/
+.navbartext{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+}
+/* jumbotron features*/
+.jumbotron{
+    border-radius: 0px;
+}
+.margin{
+    margin-top: 65px;
+}
+.btn-success{
+    border-radius: 8px;
+}
+.table{
+    font-size: 13px;
+}
+
